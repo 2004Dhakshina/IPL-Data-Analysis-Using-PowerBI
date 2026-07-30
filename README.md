@@ -6,6 +6,10 @@ Interactive Power BI dashboard analyzing IPL 2020 with player statistics, team p
 
 This project presents an interactive Power BI dashboard that analyzes the Indian Premier League (IPL) from **2008 to 2024**. The dashboard provides comprehensive insights into team performance, player statistics, batting and bowling records, season winners, toss decisions, and historical IPL trends across all seasons.
 
+##  Dashboard Preview
+
+![IPL Dashboard]()
+
 
 
 ##  Objectives
