@@ -8,7 +8,7 @@ This project presents an interactive Power BI dashboard that analyzes the Indian
 
 ##  Dashboard Preview
 
-![IPL Dashboard]()
+![IPL Dashboard](https://github.com/2004Dhakshina/IPL-Data-Analysis-Using-PowerBI/blob/main/dashboard-overview.png)
 
 
 
